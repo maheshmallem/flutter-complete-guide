@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 **Mahesh Mallem**  
 📧 [mallemmahesh@gmail.com](mailto:mallemmahesh@gmail.com)  
-🌍 [maheshdevdiaries.com](https://maheshdevdiaries.com)  
+
 
 Found a bug? Want to add examples or improvements? Feel free to open issues or pull requests.
 
